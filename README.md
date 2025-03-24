@@ -1,0 +1,1 @@
+Projeto feito em html, flexbox e bootstrap. Na página principal foi usado um carousel para passar banners da empresa. Na parte inferior foi usado um cardgroup para colocar alguns serviços oferecidos pela empresa.
