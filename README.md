@@ -24,14 +24,6 @@ Bootstrap 5
 
 ✅ Layout 100% responsivo com Flexbox e grid do Bootstrap
 
-📸 Prévia do Projeto
-(Adicione prints aqui ou link para visualização online, como GitHub Pages ou Netlify)
-
-md
-Copiar
-Editar
-![Carrossel de banners](docs/img/carrossel.png)
-![Cards de serviços](docs/img/cards.png)
 🔧 Como Rodar Localmente
 Clone o repositório:
 
@@ -46,23 +38,7 @@ bash
 Copiar
 Editar
 start index.html
-🚀 Deploy
-Esse projeto pode ser facilmente publicado usando:
 
-GitHub Pages
-
-Netlify
-
-Vercel
-
-💡 Possíveis Melhorias
-Otimização de imagens
-
-SEO básico (meta tags)
-
-Adição de formulário de contato
-
-Dark mode ou temas alternativos
 
 👨‍💻 Autor
 Desenvolvido por Alexandre de Souza Eustaquio
